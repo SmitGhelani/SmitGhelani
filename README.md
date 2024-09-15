@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Smit Ghelani</h1>
 <h3 align="center">A passionate System Engineer and Backend Developer with expertise in cloud infrastructure and web technologies.</h3>
 
+I'm a skilled **System Engineer** and **Backend Developer** with experience in **designing**, **deploying**, and **optimizing cloud applications** and infrastructure. I holds a **B.Tech in Information Technology** from **BVM Engineering College** and has worked at **Tata Consultancy Services** and **Bodh Labs Pvt. Ltd.** In his roles, I drove significant improvements in **deployment efficiency**, **security**, and **system performance**.
+
+I'm proficient in programming languages like **Python**, **JavaScript**, and **PHP**, and have expertise in frameworks including **Node.js**, **React**, and **Next.js**. With hands-on experience in **cloud technologies**, especially **AWS**, and tools like **Docker**, **Jenkins**, and **GitHub Actions**, I have streamlined **CI/CD pipelines**, reducing deployment errors and improving release cycles.
+
+An active contributor to the **Drupal community**, I have worked on over **25 issues** and participated in the development of more than **50 modules**. I'm **AWS certified** and have demonstrated my ability to solve complex technical challenges, contributing to a variety of innovative projects, including an **e-commerce store**, a **college guide platform**, and a **cryptocurrency price prediction tool**.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitghelani&label=Profile%20views&color=0e75b6&style=flat" alt="smitghelani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitghelani" alt="smitghelani" /></a> </p>

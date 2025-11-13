@@ -9,7 +9,7 @@ An active contributor to the **Drupal community**, I have worked on over **25 is
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitghelani&label=Profile%20views&color=0e75b6&style=flat" alt="smitghelani" /> </p>
 
-<p align="left"> <a href="https://github.com/smitghelani/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitghelani" alt="smitghelani" /></a> </p>
+<p align="left"> <a href="https://github.com/smitghelani/"><img src="https://github-profile-trophy.vercel.app/?username=smitghelani" alt="smitghelani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/smitghelani06" target="blank"><img src="https://img.shields.io/twitter/follow/smitghelani06?logo=twitter&style=for-the-badge" alt="smitghelani06" /></a> </p>
 
